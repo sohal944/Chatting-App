@@ -1,11 +1,12 @@
-### Chatting-App 
+# Chatting-App 
 
 JavaScript / Html / CSS
 
-# Details :- 
-## Name- SOHAL RAJ
-## College- IIT Roorkee
-## Department- Chemical Engineering
+## Details :- 
+### Name- SOHAL RAJ
+### College- IIT Roorkee
+### Department- Chemical Engineering
 
-### HOME PAGE
+
+
 
