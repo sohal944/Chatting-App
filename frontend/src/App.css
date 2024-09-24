@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* Ensure child elements stack vertically */
+  background-image: url('./blue-dynamic-shape-abstract-background-suitable-for-web-and-mobile-app-backgrounds-eps-10-vector.jpg');
+  background-size: cover;
+  /* Ensure the background covers the whole area */
+  background-position: center;
+  /* Center the background image */
+  font-family: 'Work Sans', sans-serif;
+  /* Apply font family to the whole app */
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  /* Give it a width for better visibility */
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+  border-radius: 4px;
+  /* Add some rounding for aesthetics */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+* {
+  box-sizing: border-box;
+  /* Ensure padding and borders are included in element's total width and height */
+}
