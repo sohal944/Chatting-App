@@ -7,6 +7,4 @@ JavaScript / Html / CSS
 ### College- IIT Roorkee
 ### Department- Chemical Engineering
 
-
-
-
+## Refer- Wiki for ss
